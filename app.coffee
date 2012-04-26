@@ -15,6 +15,7 @@ source =
 router =
 	'no32.tk':   '192.168.32.32'
 	'localhost': '127.0.0.1:9000'
+	'yabai':     'no32.tk:3000'
 
 options =
 	source: source
